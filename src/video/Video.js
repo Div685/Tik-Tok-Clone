@@ -34,7 +34,7 @@ function Video() {
 
       <VideoFooter />
       {/* video__Footer */}
-      {/* <VideoSidebar /> */}
+      <VideoSidebar />
       {/* video__Sidebar */}
     </div>
   );
